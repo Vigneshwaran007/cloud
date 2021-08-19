@@ -1,3 +1,5 @@
+message: 
+  fromDefaultVitalSignyml
 healthcare:
   management:
    vitalsign:

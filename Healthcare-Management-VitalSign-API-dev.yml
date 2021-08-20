@@ -30,3 +30,6 @@ healthcare:
    patient:
     uri: http://localhost:8089/patient
     name: Healthcare-Management-Patient-API
+   queue: vitalSign_queue
+   exchange: vitalSign_exchange
+   routingqueue: vitalSign_routingqueue

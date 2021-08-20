@@ -28,3 +28,6 @@ healthcare:
    user:
      uri: http://localhost:8080/users
      name: Healthcare-Management-User-API
+   queue: patient_queue
+   exchange: patient_exchange
+   routingqueue: patient_routingqueue
